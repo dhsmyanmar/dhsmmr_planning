@@ -37,3 +37,4 @@ work on those steps and when.
     codebook](https://dhsprogram.com/data/data-variables-and-definitions.cfm)
 -   [DHS guide to
     statistics](https://dhsprogram.com/publications/publication-dhsg1-dhs-questionnaires-and-manuals.cfm)
+-   [DHS R code](https://github.com/DHSProgram/DHS-Indicators-R)

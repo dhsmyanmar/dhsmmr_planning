@@ -29,7 +29,8 @@ The initial preparation might take some time (to go through the first three step
 + [DHS Myanmar report](https://dhsprogram.com/publications/publication-fr324-dhs-final-reports.cfm) 
 + [DHS questionnaires](https://dhsprogram.com/Methodology/Survey-Types/DHS-Questionnaires.cfm) 
 + [DHS variable codebook](https://dhsprogram.com/data/data-variables-and-definitions.cfm) 
-+ [DHS guide to statistics](https://dhsprogram.com/publications/publication-dhsg1-dhs-questionnaires-and-manuals.cfm)
++ [DHS guide to statistics](https://dhsprogram.com/publications/publication-dhsg1-dhs-questionnaires-and-manuals.cfm) 
++ [DHS R code](https://github.com/DHSProgram/DHS-Indicators-R)
 
 
 
